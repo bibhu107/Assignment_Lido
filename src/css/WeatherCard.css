@@ -1,0 +1,35 @@
+.WeatherCard {
+  border: 1px solid #dddbc7;
+  border-radius: 35px; 
+  box-shadow: .15rem .15rem .5rem rgba(81, 219, 178, 0.1);
+  margin: auto;
+  padding: 2rem;
+  width: 20rem;
+  text-align: center;
+  animation: horizontalFlipIn 1s;
+  border: 10px solid rgb(170, 238, 243);
+}
+
+.WeatherCard-icon-container {
+  border-radius: 25px;  
+  font-size: 4.5rem;
+  margin: 2rem 0 0;
+  background-color: rgb(192, 226, 215);
+  
+}
+
+.WeatherCard-icon {
+  margin: 0 0 2rem;
+}
+.WeatherCard-Details{
+  border-radius: 25px;
+  background-color: rgb(192, 226, 215);
+}
+.WeatherCard-degrees {
+  font-size: 6rem;
+  margin: 0;
+}
+.topContainer{
+  display: flex;
+  flex-direction: row;
+}

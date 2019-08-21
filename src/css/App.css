@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-flow: column wrap;
+ 
+}
+.topContainer {
+ 
+  flex-wrap: nowrap; 
+  overflow-x: auto; 
+  -webkit-overflow-scrolling: touch; 
+ 
+   flex:none;
+
+}
+
+.topContainer::-webkit-scrollbar {
+  display: none; }
+
