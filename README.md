@@ -3,7 +3,7 @@
 A hourly  weather forecasting app.
 
 Data is fetched from https://openweathermap.org/api/hourly-forecast in hourly basis. 
-Keep Scrolling Horizontally
+Keep Scrolling Horizontally to see all fetched inofrmation.
 
 
 #### Install
